@@ -1,0 +1,10 @@
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\configuration\SecurityConfig.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\controller\AuthController.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\dto\LoginDto.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\dto\SignUpDto.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\ECommerceApplication.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\model\User.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\repository\UserRepository.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\service\AuthService.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\service\UserService.java
+C:\Users\M2ag\Desktop\e-commerce\e-commerce\src\main\java\flagak\com\e_commerce\utils\JwtUtil.java
