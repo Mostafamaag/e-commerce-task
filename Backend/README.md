@@ -23,6 +23,7 @@ The project includes user authentication, authorization, input validation, and e
   
     git clone https://github.com/Mostafamaag/e-commerce-task
     cd e-commerce-task/backend
+    set database configuration
     mvn clean install
     mvn spring-boot:run or run it from IntelliJ
   
