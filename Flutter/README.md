@@ -17,7 +17,7 @@ A Mobile APP built with Flutter. This app enables users to online shoping by add
   To run this project locally, follow these steps:
   
     git clone https://github.com/Mostafamaag/e-commerce-task
-    cd minly-task/flutter
+    cd e-commerce-task/flutter
     run app from vs code using your emulator
 
 
