@@ -1,16 +1,25 @@
-# ecommerce
+# Mobile APP
 
-A new Flutter project.
+A Mobile APP built with Flutter. This app enables users to online shoping by adding products to cart and make orders
 
-## Getting Started
+## Features
+- <p align="left"><strong> Shop </strong> </p>
+- <p align="left"><strong> Login </strong></p>
+- <p align="left"><strong> Signup </strong></p>
+- <p align="left"><strong> Add/remove product to cart </strong></p>
+- <p align="left"><strong> Order cart </strong></p>
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- <p align="left"><strong> User Interface: </strong> Dart, Flutter </p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run
+  To run this project locally, follow these steps:
+  
+    git clone https://github.com/Mostafamaag/e-commerce-task
+    cd minly-task/flutter
+    run app from vs code using your emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Note : This app supports only customer, vendor functionality not implemented yet
+
